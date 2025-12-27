@@ -2,7 +2,7 @@
 
 I'm a software developer working at DRW mainly focused on web tooling. This GitHub mainly contains things that make it easier for me at work. Contact me at [oscarzhang228@gmail.com](mailto:oscarzhang228@gmail.com).
 
-![oscarzhang228's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozhang228&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![ozhang228's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozhang228&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### Links
